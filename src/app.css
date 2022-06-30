@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.api-index-title{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    width: 100vw;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.api-index-title h1, .api-index-title p{
+    color: white;
+}
+
+form label{
+    color : white;
+}
+
+* {
+    overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
+}
